@@ -1,0 +1,40 @@
+body{
+    background-color: e0ece4;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1{
+    color: 222831;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+h2{
+    font-family: "Payfair Display";
+    letter-spacing: 5px;
+    font-size: larger;
+}
+
+h3{
+    font-family: "Payfair Display";
+    letter-spacing: 3px;
+}
+p{
+    font-size: medium;
+}
+td{
+    font-family: "Payfair Display";
+    letter-spacing: 5px;
+    font-size: medium;
+}
+img {
+    border-radius: 8px;
+  }
+.button{
+    font-family: "Times New Roman", Georgia, Serif;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    cursor:pointer;
+    margin: 2px
+}
